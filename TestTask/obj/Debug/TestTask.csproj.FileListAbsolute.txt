@@ -1,0 +1,7 @@
+E:\BADTestTask\TestTask\bin\Debug\TestTask.exe
+E:\BADTestTask\TestTask\bin\Debug\TestTask.pdb
+E:\BADTestTask\TestTask\obj\Debug\TestTask.csproj.AssemblyReference.cache
+E:\BADTestTask\TestTask\obj\Debug\TestTask.csproj.SuggestedBindingRedirects.cache
+E:\BADTestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+E:\BADTestTask\TestTask\obj\Debug\TestTask.exe
+E:\BADTestTask\TestTask\obj\Debug\TestTask.pdb
