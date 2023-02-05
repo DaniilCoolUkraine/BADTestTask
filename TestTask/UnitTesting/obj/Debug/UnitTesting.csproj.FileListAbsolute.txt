@@ -1,0 +1,11 @@
+E:\BADTestTask\TestTask\UnitTesting\bin\Debug\UnitTesting.dll
+E:\BADTestTask\TestTask\UnitTesting\bin\Debug\UnitTesting.pdb
+E:\BADTestTask\TestTask\UnitTesting\bin\Debug\nunit.framework.dll
+E:\BADTestTask\TestTask\UnitTesting\bin\Debug\TestTask.exe
+E:\BADTestTask\TestTask\UnitTesting\bin\Debug\TestTask.pdb
+E:\BADTestTask\TestTask\UnitTesting\bin\Debug\nunit.framework.xml
+E:\BADTestTask\TestTask\UnitTesting\obj\Debug\UnitTesting.csproj.AssemblyReference.cache
+E:\BADTestTask\TestTask\UnitTesting\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
+E:\BADTestTask\TestTask\UnitTesting\obj\Debug\UnitTesting.csproj.CopyComplete
+E:\BADTestTask\TestTask\UnitTesting\obj\Debug\UnitTesting.dll
+E:\BADTestTask\TestTask\UnitTesting\obj\Debug\UnitTesting.pdb
