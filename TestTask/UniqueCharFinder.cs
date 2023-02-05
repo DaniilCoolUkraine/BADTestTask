@@ -14,12 +14,12 @@ namespace TestTask
             return FindFirstUniqueCharInString(_firstuniqueCharsString);
         }
 
-        public IEnumerable<string> SplitText(string text)
+        private IEnumerable<string> SplitText(string text)
         {
             return text.ToLower().Split(' ');
         }
 
-        public List<char> FindFirstUniqueCharsInWords(IEnumerable<string> words)
+        private List<char> FindFirstUniqueCharsInWords(IEnumerable<string> words)
         {
             var _firstUniqueCharInWord = new List<char>();
 
@@ -29,7 +29,7 @@ namespace TestTask
             return _firstUniqueCharInWord;
         }
 
-        public char FindFirstUniqueCharInString(string word)
+        private char FindFirstUniqueCharInString(string word)
         {
             if (word.Length == 1)
             {
